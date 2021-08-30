@@ -1,0 +1,16 @@
+C:\Users\Josek\RiderProjects\grafik\grafik\obj\Debug\net5.0\grafik.csproj.AssemblyReference.cache
+C:\Users\Josek\RiderProjects\grafik\grafik\obj\Debug\net5.0\grafik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josek\RiderProjects\grafik\grafik\obj\Debug\net5.0\grafik.AssemblyInfoInputs.cache
+C:\Users\Josek\RiderProjects\grafik\grafik\obj\Debug\net5.0\grafik.AssemblyInfo.cs
+C:\Users\Josek\RiderProjects\grafik\grafik\obj\Debug\net5.0\grafik.csproj.CoreCompileInputs.cache
+C:\Users\Josek\RiderProjects\grafik\grafik\bin\Debug\net5.0\grafik.exe
+C:\Users\Josek\RiderProjects\grafik\grafik\bin\Debug\net5.0\grafik.deps.json
+C:\Users\Josek\RiderProjects\grafik\grafik\bin\Debug\net5.0\grafik.runtimeconfig.json
+C:\Users\Josek\RiderProjects\grafik\grafik\bin\Debug\net5.0\grafik.runtimeconfig.dev.json
+C:\Users\Josek\RiderProjects\grafik\grafik\bin\Debug\net5.0\grafik.dll
+C:\Users\Josek\RiderProjects\grafik\grafik\bin\Debug\net5.0\ref\grafik.dll
+C:\Users\Josek\RiderProjects\grafik\grafik\bin\Debug\net5.0\grafik.pdb
+C:\Users\Josek\RiderProjects\grafik\grafik\obj\Debug\net5.0\grafik.dll
+C:\Users\Josek\RiderProjects\grafik\grafik\obj\Debug\net5.0\ref\grafik.dll
+C:\Users\Josek\RiderProjects\grafik\grafik\obj\Debug\net5.0\grafik.pdb
+C:\Users\Josek\RiderProjects\grafik\grafik\obj\Debug\net5.0\grafik.genruntimeconfig.cache

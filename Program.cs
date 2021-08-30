@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Globalization;
 using System.Net.NetworkInformation;
 
@@ -9,6 +10,7 @@ namespace grafik
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Schedule.Date();
         }
     }
 
@@ -24,10 +26,16 @@ namespace grafik
             Console.WriteLine("Rok: {1}", myCal.GetType(), myCal.GetYear(myDT));
             Console.WriteLine( "Liczba miesiecy: {0}", myCal.GetMonthsInYear(iYear));
             Console.WriteLine( "Dni w kazdym z miesiecy:" );
-            for (int j = 1; j <= myCal.GetMonthsInYear(iYear); j++ )
-                Console.Write( " {0,-5}", myCal.GetDaysInMonth(iYear,j ) );
-            Console.WriteLine();
+            
+            for (int j = 1; j <= myCal.GetMonthsInYear(iYear); j++)
+            {
+                int daysInMonth = (myCal.GetDaysInMonth(iYear,j ));
+                Console.WriteLine(daysInMonth);
+            }
+
+
         }
+
         public void MetaData() {
             int NumberOfSoldiers = 4;
             
@@ -36,7 +44,7 @@ namespace grafik
 }
 
 
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main() {
 
@@ -89,3 +97,4 @@ int main() {
     }
 };
 
+*/
